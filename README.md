@@ -23,7 +23,7 @@ Directory:- C:\Users\lenovo\Documents\workspace-spring-tool-suite-4-4.24.0.RELEA
 - Android SDK installed.
 - APK file for the **Royal Brothers Bike Rentals** app or installed from the Play Store.
 
-Test Cases :- The following test cases are automated:
+##Test Cases :- The following test cases are automated:
 
 1. Tap on SKIP for registration.
 2. Select Bangalore as the city.
